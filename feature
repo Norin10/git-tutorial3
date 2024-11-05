@@ -1,3 +1,3 @@
 feature 4
 
-this is feature 6
+this is feature 5+6
